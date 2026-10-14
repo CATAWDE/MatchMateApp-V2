@@ -1,4 +1,4 @@
-# MatchMateApp V2 - corrected assignment version
+# MatchMateApp V2
 
 # Matrimony App - Android Clean Architecture
 
