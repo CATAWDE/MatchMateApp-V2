@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatchMate</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="retry">Retry</string>
+    <string name="no_matches">No matches found</string>
+    <string name="load_error">Unable to load matches</string>
+    <string name="profile_image">Profile image</string>
+</resources>
